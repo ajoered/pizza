@@ -1,6 +1,8 @@
 Pizza Builder
 =============
 
+Complete interactive Pizza Builder! Pending refactor
+
 A browser JavaScript and DOM manipulation exercise.
 
 Based on [css3pizza](http://codepen.io/dsmoore/full/fiwAl)
